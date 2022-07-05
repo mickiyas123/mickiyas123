@@ -1,5 +1,6 @@
 
-![intro1](https://user-images.githubusercontent.com/57702109/177265748-40ab93af-2137-4665-8176-8619446540f8.gif)
+
+![giphy](https://user-images.githubusercontent.com/57702109/177274435-4fd7f577-bfdd-41ae-9975-f98ba66309e7.gif)
 
 
 - 🔭 I’m currently learning Software Enginnering at ALX Africa(Holberton School)
