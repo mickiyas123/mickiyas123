@@ -1,4 +1,5 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Miciyas" title=" I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
+![intro1](https://user-images.githubusercontent.com/57702109/177265748-40ab93af-2137-4665-8176-8619446540f8.gif)
 
 
 - 🔭 I’m currently learning Software Enginnering at ALX Africa(Holberton School)
